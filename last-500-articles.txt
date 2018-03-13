@@ -1,0 +1,487 @@
+----------
+PMID: 25473549
+ Occupations: set(['gardener'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: voriconazole, mesh: C102790
+]
+---------
+----------
+PMID: 26689249
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: carbon monoxide, mesh: D002248
+CausativeFactor type: Species, name: Wallemia sebi, mesh: 
+]
+---------
+----------
+PMID: 28614400
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 28428789
+ Occupations: set(['helper'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: Mice, mesh: 
+]
+---------
+----------
+PMID: 26099187
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26136595
+ Occupations: set(['teacher'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26024603
+ Occupations: set(['industries', 'worker'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: silica, mesh: D012822
+]
+---------
+----------
+PMID: 28780801
+ Occupations: set(['welder'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 24370311
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 28637341
+ Occupations: set(['worker'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: corn, mesh: 
+CausativeFactor type: Chemical
+, name: Qu, mesh: 
+CausativeFactor type: Species, name: wheat, mesh: 
+]
+---------
+----------
+PMID: 26526669
+ Occupations: set(['education'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: Methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: folic acid, mesh: D005492
+CausativeFactor type: Chemical, name: methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: Methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: alcohol, mesh: D000431
+CausativeFactor type: Chemical, name: methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: methotrexate, mesh: D008727
+CausativeFactor type: Chemical, name: trimethoprim, mesh: D014295
+CausativeFactor type: Chemical, name: trimethoprim, mesh: D014295
+CausativeFactor type: Chemical, name: methotrexate, mesh: D008727
+]
+---------
+----------
+PMID: 28224353
+ Occupations: set(['breeder'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: hydroxychloroquine, mesh: D006886
+CausativeFactor type: Species, name: Child, mesh: 
+CausativeFactor type: Chemical, name: corticosteroids, mesh: D000305
+]
+---------
+----------
+PMID: 24844129
+ Occupations: set(['systems'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: formaldehyde, mesh: D005557
+CausativeFactor type: Species, name: rats, mesh: 
+CausativeFactor type: Species, name: Wistar rats, mesh: 
+CausativeFactor type: Chemical, name: Formaldehyde, mesh: D005557
+CausativeFactor type: Species, name: P (rats, mesh: 
+CausativeFactor type: Species, name: rats, mesh: 
+CausativeFactor type: Species, name: B (rats, mesh: 
+CausativeFactor type: Species, name: rats, mesh: 
+]
+---------
+----------
+PMID: 25308724
+ Occupations: set(['representative'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 25885147
+ Occupations: set(['chief'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: Trichosporon asahii, mesh: 
+CausativeFactor type: Species, name: Trichosporon asahii, mesh: 
+CausativeFactor type: Species, name: girl, mesh: 
+]
+---------
+----------
+PMID: 28851756
+ Occupations: set(['worker'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: M. avium, mesh: 
+CausativeFactor type: Species, name: Mycobacterium avium, mesh: 
+CausativeFactor type: Species, name: mycobacterial, mesh: 
+CausativeFactor type: Species, name: Mycobacterium avium, mesh: 
+CausativeFactor type: Species, name: mycobacteria, mesh: 
+]
+---------
+----------
+PMID: 24624216
+ Occupations: set(['welder'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: trichloroethylene, mesh: D014241
+CausativeFactor type: Chemical, name: Trichloroethylene, mesh: D014241
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: chloroform, mesh: D002725
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: TCE, mesh: CHEBI:16602
+CausativeFactor type: Chemical, name: steroid, mesh: CHEBI:35341
+]
+---------
+----------
+PMID: 24472630
+ Occupations: set(['technician'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: MMA, mesh: CHEBI:34840
+CausativeFactor type: Chemical, name: MMA, mesh: CHEBI:34840
+CausativeFactor type: Chemical, name: methyl methacrylate, mesh: D020366
+CausativeFactor type: Chemical, name: MMA, mesh: CHEBI:34840
+]
+---------
+----------
+PMID: 25874435
+ Occupations: set(['systems'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical
+, name: Acremonium, mesh: 
+]
+---------
+----------
+PMID: 27067273
+ Occupations: set(['construction', 'worker'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 29075960
+ Occupations: set(['worker', 'teacher'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: P. roqueforti, mesh: 
+CausativeFactor type: Species, name: Penicillium Roqueforti, mesh: 
+CausativeFactor type: Species, name: P. roqueforti, mesh: 
+CausativeFactor type: Species, name: Penicillium roqueforti, mesh: 
+CausativeFactor type: Species, name: Penicillium marneffei, mesh: 
+CausativeFactor type: Species, name: P. roqueforti, mesh: 
+CausativeFactor type: Species, name: P. roqueforti, mesh: 
+CausativeFactor type: Species, name: P. roqueforti, mesh: 
+]
+---------
+----------
+PMID: 29410258
+ Occupations: set(['helper'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: tuberculosis, mesh: 
+]
+---------
+----------
+PMID: 24615201
+ Occupations: set(['auxiliary'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26391232
+ Occupations: set(['expert'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: CHP, mesh: 
+CausativeFactor type: Species, name: CHP, mesh: 
+]
+---------
+----------
+PMID: 27815523
+ Occupations: set(['expert'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 28810682
+ Occupations: set(['worker'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical
+, name: isocyanate, mesh: 
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: Methylene Bisphenyl Isocyanate, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: methylene bisphenyl isocyanate, mesh: CHEBI:53218
+CausativeFactor type: Chemical, name: MDI, mesh: CHEBI:53218
+]
+---------
+----------
+PMID: 26016305
+ Occupations: set(['worker'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26236605
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: ray, mesh: 
+CausativeFactor type: Chemical, name: corticosteroids, mesh: D000305
+]
+---------
+----------
+PMID: 27020801
+ Occupations: set(['installation'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: carbon, mesh: D002244
+CausativeFactor type: Species, name: humans, mesh: 
+CausativeFactor type: Chemical, name: nitrogen, mesh: D009584
+]
+---------
+----------
+PMID: 24959758
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 25666836
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 24818758
+ Occupations: set(['systems'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26089999
+ Occupations: set(['breeder'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 27448583
+ Occupations: set(['breeder'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26276755
+ Occupations: set(['consultant', 'registrar', 'specialist'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 27427424
+ Occupations: set(['beautician'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: ozone, mesh: D010126
+CausativeFactor type: Chemical
+, name: vapozone, mesh: 
+CausativeFactor type: Chemical
+, name: a "vapozone, mesh: 
+CausativeFactor type: Chemical, name: carbon monoxide, mesh: D002248
+]
+---------
+----------
+PMID: 28383627
+ Occupations: set(['helper'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: mice, mesh: 
+CausativeFactor type: Species, name: humans, mesh: 
+CausativeFactor type: Species, name: Tc1, mesh: 
+]
+---------
+----------
+PMID: 24687706
+ Occupations: set(['baker'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: oat, mesh: 
+CausativeFactor type: Chemical, name: carbon monoxide, mesh: D002248
+CausativeFactor type: Chemical, name: prednisone, mesh: D011241
+CausativeFactor type: Species, name: maize, mesh: 
+CausativeFactor type: Species, name: Aspergillus fumigatus, mesh: 
+]
+---------
+----------
+PMID: 27719977
+ Occupations: set(['worker'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 25344645
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 29276675
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: onion, mesh: 
+CausativeFactor type: Species, name: Aspergillus niger, mesh: 
+CausativeFactor type: Species, name: niger, mesh: 
+CausativeFactor type: Species, name: onion, mesh: 
+CausativeFactor type: Species, name: onion, mesh: 
+CausativeFactor type: Species, name: onion, mesh: 
+CausativeFactor type: Species, name: niger, mesh: 
+CausativeFactor type: Species, name: onion, mesh: 
+CausativeFactor type: Species, name: niger, mesh: 
+CausativeFactor type: Species, name: niger, mesh: 
+]
+---------
+----------
+PMID: 25423845
+ Occupations: set(['pharmaceutical'])
+ Supsected Causative Factors
+ [
+
+]
+---------
+----------
+PMID: 26813375
+ Occupations: set(['welder'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: iron, mesh: D007501
+]
+---------
+----------
+PMID: 26866431
+ Occupations: set(['baker'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: wheat, mesh: 
+CausativeFactor type: Species, name: wheat, mesh: 
+CausativeFactor type: Species, name: wheat, mesh: 
+CausativeFactor type: Species, name: Wheat, mesh: 
+CausativeFactor type: Species, name: wheat, mesh: 
+CausativeFactor type: Chemical, name: carbohydrate, mesh: CHEBI:16646
+CausativeFactor type: Species, name: wheat, mesh: 
+]
+---------
+----------
+PMID: 25264606
+ Occupations: set(['farmer'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Chemical, name: SR17, mesh: C109606
+]
+---------
+----------
+PMID: 24557005
+ Occupations: set(['helper'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: Pneumocystis carinii, mesh: 
+CausativeFactor type: Chemical, name: steroids, mesh: D013256
+]
+---------
+----------
+PMID: 27015024
+ Occupations: set(['vendor'])
+ Supsected Causative Factors
+ [
+CausativeFactor type: Species, name: Pleurotus ostreatus, mesh: 
+CausativeFactor type: Chemical, name: salbutamol, mesh: D000420
+CausativeFactor type: Species, name: Pleurotus ostreatus, mesh: 
+]
+---------
+----------
+PMID: 25006324
+ Occupations: set(['systems'])
+ Supsected Causative Factors
+ [
+
+]
+---------
